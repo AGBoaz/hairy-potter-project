@@ -9,6 +9,13 @@ let mug3 = makePottery('mug','0.25 lb','4 inches');
 let mug4 = makePottery('yard knome','3 lb','3 feet');
 let mug5 = makePottery('brick','4 lb','6 inches');
 
+console.log(mug);
+console.log(mug2);
+console.log(mug3);
+console.log(mug4);
+console.log(mug5);
+
+
 // Fire each piece of pottery in the kiln
 
 
